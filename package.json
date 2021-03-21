@@ -1,0 +1,23 @@
+{
+	"name": "gk-app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "package.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Mephiles/npm-app.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Mephiles/npm-app/issues"
+	},
+	"homepage": "https://github.com/Mephiles/npm-app#readme",
+	"dependencies": {
+		"gk-utilities": "1.0.0",
+		"gk-options-validator": "1.0.1"
+	}
+}
